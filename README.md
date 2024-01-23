@@ -20,9 +20,9 @@ While this repository primarily serves as a record of my internship tasks, I wel
 ## Installation
 
 Install Visual Code  and 
-Need Weather API Key    
+Need a Weather API Key    
 ## 🛠 Skills
-Html
+HTML, CSS, JAVASCRIPT
 
 R. Manikandan
 
