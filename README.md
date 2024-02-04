@@ -26,7 +26,7 @@ While this repository primarily serves as a record of my internship tasks, I wel
 ## Installation
 
 Install Visual Code  and 
-Need a Weather API Key    
+Need a Weather API Key, create a TMDB account for the Netflix Data    
 ## 🛠 Skills
 HTML, CSS, JAVASCRIPT
 
